@@ -1,0 +1,26 @@
+#g {
+  text-align:center;
+  font-size: 3em
+}
+
+#block {
+  align-self: flex-start;
+  background-color: green;
+  color: white;
+
+}
+
+.label{
+  text-align: center;
+}
+
+.lorem {
+  color: black;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+.img{
+  width: 1290px;
+  height: 800px
+}
